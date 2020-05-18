@@ -1,0 +1,44 @@
+
+body{
+	color: #FFFFFF;
+	background-image: url(t4.jpg);
+	background-repeat: no-repeat;
+	background-attachment:fixed; 
+	padding: 100px; 
+	margin: 100px;
+	font-family: cursive;
+	font-size: 30px;	
+}
+
+img{
+	border: 2px solid #FFEDBE;
+	width: 300px;
+	display: inline-block;
+	margin: 10px;
+	border-radius: 8px;
+}
+
+a{
+	text-align: center;
+	color: #FFFF5C;
+}
+
+h1{
+	padding: 5%;
+	text-align: center;
+	text-shadow: 2px 2px 8px #FF0000;
+                  
+	font: cursive 90px 
+	font-weight: 500;
+	
+}
+
+footer{
+	padding: 5px;
+	font: cursive 90px
+	font-weight: 100;
+}
+
+hr{
+	border-bottom: 2px double #FFFF5C;
+}
